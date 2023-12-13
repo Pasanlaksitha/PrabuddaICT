@@ -1,2 +1,2 @@
 # PrabuddaICT
-ICT home Work
+Simple website i created for my ICT class project
